@@ -24,12 +24,6 @@ Saliency maps provide visual explanations of deep learning models by showing whi
 3. Take the absolute maximum of the gradients across RGB channels.
 4. Visualize the result as a heatmap overlay.
 
-### 🧩 Diagram
-
-![Saliency Map Diagram](A_flowchart_diagram_in_the_image_illustrates_the_c.png)
-
-The diagram above illustrates the process of generating saliency maps using InceptionV3.
-
 ## 🛠️ Tools and Libraries
 
 - TensorFlow 2.x
