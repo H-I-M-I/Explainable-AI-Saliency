@@ -29,7 +29,6 @@ Saliency maps provide visual explanations of deep learning models by showing whi
 - TensorFlow 2.x
 - TensorFlow Hub
 - NumPy
-- NumPy
 - OpenCV
 - Matplotlib
 
