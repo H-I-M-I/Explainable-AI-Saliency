@@ -1,4 +1,4 @@
-# Explainable AI – Saliency Maps with InceptionV3
+# Explainable AI - Saliency Maps with InceptionV3
 
 This project demonstrates a **gradient-based saliency-map technique for interpreting image classification predictions**.
 
